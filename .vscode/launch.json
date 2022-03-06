@@ -1,0 +1,343 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Cellsinarangeexcel",
+      "request": "launch",
+      "mainClass": "Cellsinarangeexcel",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch wrap",
+      "request": "launch",
+      "mainClass": "wrap",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Monotonicstack",
+      "request": "launch",
+      "mainClass": "Monotonicstack",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Validpalindrome",
+      "request": "launch",
+      "mainClass": "Validpalindrome",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch VowelOccurances",
+      "request": "launch",
+      "mainClass": "VowelOccurances",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseArray",
+      "request": "launch",
+      "mainClass": "ReverseArray",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lonelyelements",
+      "request": "launch",
+      "mainClass": "Lonelyelements",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch kunaltut",
+      "request": "launch",
+      "mainClass": "collectionframewrks.kunaltut",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch kumalkushwahastrings",
+      "request": "launch",
+      "mainClass": "kumalkushwahastrings",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Binarytree",
+      "request": "launch",
+      "mainClass": "Binarytree",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch suboccurance",
+      "request": "launch",
+      "mainClass": "suboccurance",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch firstandlastocc",
+      "request": "launch",
+      "mainClass": "firstandlastocc",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch stringrec",
+      "request": "launch",
+      "mainClass": "stringrec",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch towerofhanoi",
+      "request": "launch",
+      "mainClass": "towerofhanoi",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch xpowern",
+      "request": "launch",
+      "mainClass": "xpowern",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Dnf",
+      "request": "launch",
+      "mainClass": "Dnf",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch movezeroestoright",
+      "request": "launch",
+      "mainClass": "movezeroestoright",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch nextpermutation",
+      "request": "launch",
+      "mainClass": "nextpermutation",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch LearnArraylist",
+      "request": "launch",
+      "mainClass": "collectionframewrks.LearnArraylist",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch kadensalgor",
+      "request": "launch",
+      "mainClass": "kadensalgor",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch kadensalgor",
+      "request": "launch",
+      "mainClass": "collectionframewrks.kadensalgor",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch learncollectionclass",
+      "request": "launch",
+      "mainClass": "collectionframewrks.learncollectionclass",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch learnarrayclass",
+      "request": "launch",
+      "mainClass": "collectionframewrks.learnarrayclass",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch learnmap",
+      "request": "launch",
+      "mainClass": "collectionframewrks.learnmap",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch learnhashset",
+      "request": "launch",
+      "mainClass": "collectionframewrks.learnhashset",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch learnarraydeque",
+      "request": "launch",
+      "mainClass": "collectionframewrks.learnarraydeque",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch learnpriorityqueue",
+      "request": "launch",
+      "mainClass": "collectionframewrks.learnpriorityqueue",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Learnlinkedlist",
+      "request": "launch",
+      "mainClass": "collectionframewrks.Learnlinkedlist",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch LearnStack",
+      "request": "launch",
+      "mainClass": "collectionframewrks.LearnStack",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "collectionframewrks.Main",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Swap",
+      "request": "launch",
+      "mainClass": "Swap",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch pascaltriangle",
+      "request": "launch",
+      "mainClass": "pascaltriangle",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Merge",
+      "request": "launch",
+      "mainClass": "Merge",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch QuickSort",
+      "request": "launch",
+      "mainClass": "QuickSort",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Insertionsort",
+      "request": "launch",
+      "mainClass": "Insertionsort",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Selectionsort",
+      "request": "launch",
+      "mainClass": "Selectionsort",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch BubbleSort",
+      "request": "launch",
+      "mainClass": "BubbleSort",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Anagram",
+      "request": "launch",
+      "mainClass": "Anagram",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Solution",
+      "request": "launch",
+      "mainClass": "Solution",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Datetime",
+      "request": "launch",
+      "mainClass": "Datetime",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Strings",
+      "request": "launch",
+      "mainClass": "Strings",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch abs",
+      "request": "launch",
+      "mainClass": "abs",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Bank",
+      "request": "launch",
+      "mainClass": "bank.Bank",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch oops",
+      "request": "launch",
+      "mainClass": "oops",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Searchintwod",
+      "request": "launch",
+      "mainClass": "Searchintwod",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch twodimension",
+      "request": "launch",
+      "mainClass": "twodimension",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Graphrepresentation",
+      "request": "launch",
+      "mainClass": "Graphrepresentation",
+      "projectName": "java_d4361a58"
+    }
+  ]
+}
