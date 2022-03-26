@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch Countballs",
+      "request": "launch",
+      "mainClass": "Countballs",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
+      "name": "Launch Repeatedsubstring",
+      "request": "launch",
+      "mainClass": "Repeatedsubstring",
+      "projectName": "java_d4361a58"
+    },
+    {
+      "type": "java",
       "name": "Launch Cellsinarangeexcel",
       "request": "launch",
       "mainClass": "Cellsinarangeexcel",
