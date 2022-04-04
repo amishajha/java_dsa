@@ -1,2 +1,23 @@
+/.classpath
+/.idea/
+/.project
+/BracketRev.class
+/Brokencalculator.class
+/Cellsinarangeexcel.class
+/Countballs.class
+/Findkdistinctintegers.class
+/Kweakestrow.class
+/MinimumDeletions.class
+/Nextsmallelement.class
+/Repeatedsubstring.class
+/ReverseString.class
 /Reversevowel.class
+/ScoreofParenthesis.class
+/SimplifyPath.class
+/Stringwithagivenvalue.class
+/Sumofunique.class
+/TimeNeededtoBuyTickets.class
+/appendkintegerswithminimalsum.class
+/leetcode java.iml
 /out/
+/SelectBuildings.class
